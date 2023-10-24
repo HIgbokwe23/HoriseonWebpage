@@ -10,7 +10,9 @@ I am working for a marketing agency and have been given the task of improving th
 
 Deployed on GitHub Pages
 
-(insert link)
+[This is the link to my webpage](https://higbokwe23.github.io/HoriseonWebpage/)
+
+[This is the link to my git hub repo](https://github.com/HIgbokwe23/HoriseonWebpage)
 
 ## Usage
 
@@ -30,3 +32,7 @@ MIT
 ---
 
 
+https://higbokwe23.github.io/HoriseonWebpage/
+
+
+https://github.com/HIgbokwe23/HoriseonWebpage
